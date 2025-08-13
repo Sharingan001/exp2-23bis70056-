@@ -47,6 +47,4 @@ By completing this project, you will:
 5. Gain experience in creating clean, user-friendly interfaces.
 6. Understand how to validate user input before performing actions.
 
----
 
-## 📂 Project Structure
