@@ -20,18 +20,21 @@ This is purely **frontend-based** and is ideal for learning UI design, styling, 
 
 ## 💻 Full Source Code
 
-![Source Code Screenshot](assets/code-screenshot.png)
+![Source Code Screenshot](assets/html.png)
+![Source Code Screenshot](assets/html2.png)
+![Source Code Screenshot](assets/html3.png)
+![Source Code Screenshot](assets/html4.png)
 
 
 ---
 
 ## 📷 Project UI Screenshot
-![Banking UI Screenshot](assets/ui-screenshot.png)
+![Banking UI Screenshot](assets/output.png)
 
 ---
 
 ## 📷 Output Screenshot (After Transactions)
-![Banking UI Output Screenshot](assets/output-screenshot.png)
+![Banking UI Output Screenshot](assets/output2.png)
 
 ---
 
